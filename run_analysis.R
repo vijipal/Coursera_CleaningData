@@ -1,4 +1,4 @@
-setwd("c:/viji/Rtest/wk4_cls3")
+
 
 library(dplyr)
 
